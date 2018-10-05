@@ -1,0 +1,14 @@
+body{
+  background-color: lightblue;
+  margin-left: 3em;
+  font-family: 'Merriweather', serif;
+}
+
+.committees > li{
+  font-size: 1em;
+  
+}
+
+.subcommittees{
+  font-size: .85em;
+}
